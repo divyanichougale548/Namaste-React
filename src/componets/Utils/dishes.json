@@ -1,0 +1,254 @@
+[
+  {
+    "img": "https://images.pexels.com/photos/410648/pexels-photo-410648.jpeg",
+    "name": "Margherita Pizza",
+    "rating": 4.5,
+    "price": 8.99
+  },
+  {
+    "img": "https://images.pexels.com/photos/1639563/pexels-photo-1639563.jpeg",
+    "name": "Classic Cheeseburger",
+    "rating": 4.2,
+    "price": 6.49
+  },
+  {
+    "img": "https://images.pexels.com/photos/357756/pexels-photo-357756.jpeg",
+    "name": "Salmon Sushi",
+    "rating": 4.8,
+    "price": 12.99
+  },
+  {
+    "img": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg",
+    "name": "Spaghetti Carbonara",
+    "rating": 4.6,
+    "price": 9.99
+  },
+  {
+    "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "name": "Beef Tacos",
+    "rating": 4.3,
+    "price": 7.99
+  },
+  {
+    "img": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg",
+    "name": "Caesar Salad",
+    "rating": 4.0,
+    "price": 5.99
+  },
+  {
+    "img": "https://images.pexels.com/photos/675951/pexels-photo-675951.jpeg",
+    "name": "Grilled Steak",
+    "rating": 4.7,
+    "price": 15.99
+  },
+  {
+    "img": "https://images.pexels.com/photos/357573/pexels-photo-357573.jpeg",
+    "name": "Chicken Noodles",
+    "rating": 4.4,
+    "price": 8.49
+  },
+  {
+    "img": "https://images.pexels.com/photos/2474661/pexels-photo-2474661.jpeg",
+    "name": "Tonkotsu Ramen",
+    "rating": 4.6,
+    "price": 10.99
+  },
+  {
+    "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "name": "Chicken Biryani",
+    "rating": 4.5,
+    "price": 11.99
+  },
+  {
+    "img": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg",
+    "name": "Blueberry Pancakes",
+    "rating": 4.3,
+    "price": 6.99
+  },
+  {
+    "img": "https://images.pexels.com/photos/1583884/pexels-photo-302680.jpeg",
+    "name": "Chocolate Donuts",
+    "rating": 4.1,
+    "price": 3.49
+  },
+  {
+    "img": "https://images.pexels.com/photos/1583884/pexels-photo-1583884.jpeg",
+    "name": "French Fries",
+    "rating": 4.0,
+    "price": 2.99
+  },
+  {
+    "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "name": "Butter Chicken",
+    "rating": 4.7,
+    "price": 10.99
+  },
+  {
+    "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "name": "Vanilla Ice Cream",
+    "rating": 4.2,
+    "price": 3.99
+  },
+  {
+    "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "name": "Cheesy Nachos",
+    "rating": 4.1,
+    "price": 6.49
+  },
+  {
+    "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "name": "Club Sandwich",
+    "rating": 4.3,
+    "price": 5.99
+  },
+  {
+    "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "name": "Veg Momos",
+    "rating": 4.2,
+    "price": 4.99
+  },
+  {
+    "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "name": "Chicken Shawarma",
+    "rating": 4.4,
+    "price": 7.49
+  },
+  {
+    "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "name": "Falafel Wrap",
+    "rating": 4.0,
+    "price": 5.49
+  },
+  {
+    "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "name": "Meat Lasagna",
+    "rating": 4.6,
+    "price": 11.49
+  },
+  {
+    "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "name": "Cheese Omelette",
+    "rating": 4.1,
+    "price": 3.99
+  },
+  {
+    "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "name": "Bacon Strips",
+    "rating": 4.2,
+    "price": 4.49
+  },
+  {
+    "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "name": "Lamb Kebab",
+    "rating": 4.5,
+    "price": 9.49
+  },
+  {
+    "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "name": "Classic Hot Dog",
+    "rating": 4.0,
+    "price": 4.99
+  },
+  {
+    "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "name": "Veg Chow Mein",
+    "rating": 4.3,
+    "price": 6.49
+  },
+  {
+    "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "name": "Paneer Wrap",
+    "rating": 4.1,
+    "price": 5.99
+  },
+  {
+    "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "name": "Spicy Tofu",
+    "rating": 4.4,
+    "price": 7.49
+  },
+  {
+    "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "name": "Egg Fried Rice",
+    "rating": 4.3,
+    "price": 6.99
+  },
+  {
+    "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "name": "Pork Dumplings",
+    "rating": 4.6,
+    "price": 8.49
+  },
+  {
+    "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "name": "Grilled Salmon",
+    "rating": 4.7,
+    "price": 13.99
+  },
+  {
+    "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "name": "Italian Meatballs",
+    "rating": 4.5,
+    "price": 9.99
+  },
+  {
+    "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "name": "Butter Croissant",
+    "rating": 4.2,
+    "price": 3.29
+  },
+  {
+    "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "name": "Red Velvet Cake",
+    "rating": 4.6,
+    "price": 5.99
+  },
+  {
+    "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "name": "Chocolate Brownie",
+    "rating": 4.4,
+    "price": 4.49
+  },
+  {
+    "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "name": "Belgian Waffles",
+    "rating": 4.3,
+    "price": 6.29
+  },
+  {
+    "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "name": "Mint Mojito",
+    "rating": 4.1,
+    "price": 2.99
+  },
+  {
+    "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "name": "Cappuccino",
+    "rating": 4.5,
+    "price": 3.99
+  },
+  {
+    "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "name": "Masala Chai",
+    "rating": 4.2,
+    "price": 1.99
+  },
+  {
+    "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "name": "Berry Smoothie",
+    "rating": 4.4,
+    "price": 4.99
+  },
+  {
+    "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "name": "Strawberry Cheesecake",
+    "rating": 4.6,
+    "price": 6.49
+  },
+  {
+    "img": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg",
+    "name": "Tomato Soup",
+    "rating": 4.0,
+    "price": 3.99
+  }
+]
